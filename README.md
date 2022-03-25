@@ -3,9 +3,9 @@
 - 🔭 I’m currently working on a Javascript Matching Game and Bootstrap website 
 - 🌱 I’m currently learning Bootstrap with Nucamp! 
 - 👯 I’m looking to collaborate on any and all projects.
-- 🤔 I’m looking for help with everything! You can always learn more 
+- 🤔 I’m looking for help with everything! You can always learn more.
 - 📫 How to reach me: Please email me at waughphoto@gmail.com - let's collaborate! 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am also a musician and photographer! 
 
 <!--
