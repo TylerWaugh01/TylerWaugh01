@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Javascript Matching Game and Bootstrap website 
+- 🔭 I’m currently working on a Javascript Games and a Bootstrap website 
 - 🌱 I’m currently learning Bootstrap with Nucamp! 
 - 👯 I’m looking to collaborate on any and all projects.
 - 🤔 I’m looking for help with everything! You can always learn more.
