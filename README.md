@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Javascript Games and a Bootstrap website 
-- 🌱 I’m currently learning Bootstrap with Nucamp! 
+- 🔭 I’m currently working on Javascript Games, Bootstrap, and React!
+- 🌱 I’m currently learning React with Nucamp! 
 - 👯 I’m looking to collaborate on any and all projects.
 - 🤔 I’m looking for help with everything! You can always learn more.
 - 📫 How to reach me: Please email me at waughphoto@gmail.com - let's collaborate! 
