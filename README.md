@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on more projects!
-- 🌱 I’m currently learning more about SQL! 
+- 🌱 I’m currently learning more about everything! 
 - 👯 I’m looking to collaborate on any and all projects.
 - 🤔 I’m looking for help with everything! You can always learn more.
 - 📫 How to reach me: Please email me at waughphoto@gmail.com - let's collaborate! 
